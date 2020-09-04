@@ -1,2 +1,2 @@
-# Capston-Week1
+# DataScience Capston
 Setting up Github Account for The Project
